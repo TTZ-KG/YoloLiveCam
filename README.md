@@ -19,6 +19,4 @@ Detect people, chairs, keyboards, and cell phones in real-time using your laptop
 ```bash
 git clone https://github.com/yourusername/yolo-live-detection.git
 cd yolo-live-detection
-
-
-![alt text](https://github.com/TTZ-KG/YoloLiveCam//Example.jpg?raw=true)
+![My Diagram](https://github.com/TTZ-KG/YoloLiveCam/blob/main/Example.jpg)
