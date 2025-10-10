@@ -21,4 +21,4 @@ git clone https://github.com/yourusername/yolo-live-detection.git
 cd yolo-live-detection
 
 
-![My Diagram](Example.jpg)
+![alt text](https://github.com/TTZ-KG/YoloLiveCam//Example.jpg?raw=true)
