@@ -2,11 +2,20 @@
 
 Detect people, chairs, keyboards, and cell phones in real-time using your laptop camera and YOLOv8.
 
+## Features
+- Real-time object detection
+- Lightweight YOLOv8n model for fast performance
+- Works on CPU or GPU
+- Simple configuration for frame size, confidence threshold, and FPS
+
+## Requirements
+- Python 3.9+
+- pip
+
 ## Installation
 
-1. Download or clone the repository  
-2. Install Python 3.9+ and pip  
-3. Install dependencies:
+1. Clone the repository:
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/yourusername/yolo-live-detection.git
+cd yolo-live-detection
