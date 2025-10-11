@@ -34,7 +34,7 @@ cd yolo-live-detection
 python detect_live.py
 ```
 ## Contact
-[Dalia Mahdy](https://ttz-kg.thws.de/en/about-us/team/?tx_fhwspersonen_fe%5Bperson%5D=5157&tx_fhwspersonen_fe%5Bcontroller%5D=Person&cHash=cdb03945df74ae57cb4e54471e15db7f)](https://ttz-kg.thws.de/en/about-us/team/?tx_fhwspersonen_fe%5Bperson%5D=5157&tx_fhwspersonen_fe%5Bcontroller%5D=Person&cHash=cdb03945df74ae57cb4e54471e15db7f)
+[Dalia Mahdy](https://ttz-kg.thws.de/en/about-us/team/?tx_fhwspersonen_fe%5Bperson%5D=5157&tx_fhwspersonen_fe%5Bcontroller%5D=Person&cHash=cdb03945df74ae57cb4e54471e15db7f)
 
 ## Acknowledgments
 * [YOLO]([https://github.com/matiassingers/awesome-readme](https://docs.ultralytics.com/))
