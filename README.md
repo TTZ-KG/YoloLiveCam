@@ -1,7 +1,3 @@
-as part of the code block — so the image appears as text.  
-
-✅ **Here’s the fixed version:**
-
 ```markdown
 # YOLOv8 Live Detection
 
