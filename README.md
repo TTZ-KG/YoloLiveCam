@@ -1,4 +1,4 @@
-# Project Title
+# Live Camera detection with YOLO
 
 Simple overview of use/purpose.
 
