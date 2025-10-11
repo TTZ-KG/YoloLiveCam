@@ -1,6 +1,9 @@
 # Live camera detection with YOLO
 This project uses YOLOv8 for real-time object detection, identifying people and various everyday objects using either a connected USB camera or the device’s built-in webcam.
 
+The full list of classes with their identification numbers can be found here: 
+
+
 ![Live Detection Example](Example.jpg)
 
 ## Features
