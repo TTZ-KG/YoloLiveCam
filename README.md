@@ -1,3 +1,8 @@
+as part of the code block — so the image appears as text.  
+
+✅ **Here’s the fixed version:**
+
+```markdown
 # YOLOv8 Live Detection
 
 Detect people, chairs, keyboards, and cell phones in real-time using your laptop camera and YOLOv8.
@@ -19,9 +24,3 @@ Detect people, chairs, keyboards, and cell phones in real-time using your laptop
 ```bash
 git clone https://github.com/yourusername/yolo-live-detection.git
 cd yolo-live-detection
-
-## Working Example
-
-<p align="center">
-  <img src="https://github.com/TTZ-KG/YoloLiveCam/blob/main/Example.jpg" width="600"/>
-</p>
