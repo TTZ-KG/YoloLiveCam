@@ -3,7 +3,6 @@ This project uses YOLOv8 for real-time object detection, identifying people and 
 
 The full list of classes with their identification numbers can be found [here](https://gist.github.com/rcland12/dc48e1963268ff98c8b2c4543e7a9be8#file-yolo_classes-json)
 
-
 ![Live Detection Example](Example.jpg)
 
 ## Features
@@ -24,9 +23,9 @@ Install the required packages:
 pip install ultralytics opencv-python pyautogui torch
 ```
 ### Executing program
-1. Clone the repository:
+1. Download the folder or Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yolo-live-detection.git
+git clone https://github.com/TTZ-KG//yolo-live-detection.git
 cd yolo-live-detection
 ```
 2. Run the script:
