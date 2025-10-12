@@ -30,7 +30,7 @@ cd yolo-live-detection
 ```
 2. Run the script:
 ```bash
-python detect_live.py
+python LiveCam.py
 ```
 ## Contact
 [Dalia Mahdy](https://ttz-kg.thws.de/en/about-us/team/?tx_fhwspersonen_fe%5Bperson%5D=5157&tx_fhwspersonen_fe%5Bcontroller%5D=Person&cHash=cdb03945df74ae57cb4e54471e15db7f)
